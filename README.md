@@ -1,2 +1,2 @@
 # PlayingCard
-Playing card demo written on Swift. Gestures are used: swipes, taps and zoom.
+Playing card demo written in Swift. Gestures are used: swipes, taps and zoom.
